@@ -13,6 +13,8 @@ Semester project startup and theory
 
 * After the presentation we continue with requirements (using UML)
 
+### [Material from the presentaion](CompanyPresentation/PresentationDay.md)
+
 ## Wednesday
 * Activity diagram
 * Requirement
